@@ -13,7 +13,11 @@ The **Vanity-BTC Generator** is a high-speed Bitcoin address generator that allo
 
 #### **Single License Key Requirement**  
 - Users must enter a valid license key to access the app.  
-- Example keys:  xxxxxxx......   
+- Example keys:
+  - `abandonmenthayuabdij23`  
+  - `Hayufhdhdydtw5fuufyf677`  
+  - `Fufyeesxttd6cuvvudqsjc77`  
+  - `Tdu5wgkswu41rudtiwtel66`
 
 #### **Login Screen**  
 - Input field for the license key.  
